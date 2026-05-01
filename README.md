@@ -1,11 +1,9 @@
-# Portafolio Profesional de QA & Análisis Funcional-Eduardo Gonzalez
+# Portafolio Profesional: QA Manual | Analista Funcional | Scrum Master Jr. Eduardo Gonzalez
 
-¡Bienvenido! En este repositorio presento mi experiencia técnica y analítica aplicada al aseguramiento de calidad de software (QA) y la gestión
-de requerimientos bajo metodologías ágiles.
+¡Bienvenido! En este repositorio presento mi experiencia técnica y analítica aplicada al aseguramiento de calidad de software (QA), la gestión de requerimientos y la facilitación de marcos de trabajo ágiles.
 
 ## 🚀 Sobre mí
-Especialista en **QA Manual** y **Análisis Funcional**, con enfoque en la detección de defectos críticos y la traducción de necesidades de negocio en
-historias de usuario técnicas. Con experiencia en entornos **Scrum** y gestión de proyectos en **Jira**.
+Especialista con un perfil integral que combina el **QA Manual**, el **Análisis Funcional** y la gestión como **Scrum Master Jr.** Mi enfoque principal es asegurar la entrega de productos de alta calidad, optimizando los procesos de equipo en entornos **Scrum** y utilizando **Jira** como herramienta central de gestión.
 
 ---
 
