@@ -21,6 +21,13 @@ Evidencia de ejecución de testing y reporte de defectos:
 
 ---
 
+### 🚀 [Gestión Agile (Scrum)](./Gestion-Agile/)
+Evidencia de mis habilidades como facilitador y gestor de procesos:
+* **Framework Scrum:** Facilitación de ceremonias y mejora continua.
+* **Jira:** Administración de backlog y seguimiento de versiones.
+
+---
+
 ## 🛠 Herramientas y Metodologías
 * **Gestión:** Jira Software, Confluence, Trello.
 * **Metodologías:** Scrum, Kanban.
